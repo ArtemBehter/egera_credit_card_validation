@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/egera_credit_card_validation/static/css/main.6a64d7d9.css",
+    "main.js": "/egera_credit_card_validation/static/js/main.93d58cbc.js",
+    "index.html": "/egera_credit_card_validation/index.html",
+    "main.6a64d7d9.css.map": "/egera_credit_card_validation/static/css/main.6a64d7d9.css.map",
+    "main.93d58cbc.js.map": "/egera_credit_card_validation/static/js/main.93d58cbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a64d7d9.css",
+    "static/js/main.93d58cbc.js"
+  ]
+}
